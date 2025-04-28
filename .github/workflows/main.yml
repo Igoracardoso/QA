@@ -28,4 +28,4 @@ jobs:
         
     - name: Rodar teste unitarios
       run: |
-         python -m pytest -v
+         python -m pytest tests/
